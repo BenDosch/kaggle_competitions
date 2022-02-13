@@ -11,6 +11,8 @@
 
 * [Kaggle's Titanic Machine Learning Competition](https://www.kaggle.com/c/titanic/overview "Kaggle's Titanic Machine Learning Competition")
 * [A Complete Guide to the Random Forest Algorithm](https://builtin.com/data-science/random-forest-algorithm "A Complete Guide to the Random Forest Algorithm")
+* [Sklearn - Random Forest](https://scikit-learn.org/stable/modules/ensemble.html#forests-of-randomized-trees "Random Forest")
+* [Random Forests - Leo Breiman and Adele Cutler](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm#missing1 "Random Forests - Leo Breiman and Adele Cutler")
 
 ## Tasks
 List of tasks with brief descriptions of each task.
